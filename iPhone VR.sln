@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPhone VR.CSharp", "iPhone VR.CSharp.csproj", "{EC968853-F4E8-5423-633A-157C8DD82FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPhone VR.CSharp.Editor", "iPhone VR.CSharp.Editor.csproj", "{CA791FAA-165F-3AD0-0E15-69826A5CAAD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC968853-F4E8-5423-633A-157C8DD82FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC968853-F4E8-5423-633A-157C8DD82FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC968853-F4E8-5423-633A-157C8DD82FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC968853-F4E8-5423-633A-157C8DD82FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA791FAA-165F-3AD0-0E15-69826A5CAAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA791FAA-165F-3AD0-0E15-69826A5CAAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA791FAA-165F-3AD0-0E15-69826A5CAAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA791FAA-165F-3AD0-0E15-69826A5CAAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
